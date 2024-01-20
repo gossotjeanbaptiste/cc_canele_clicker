@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Pacifico';
+    src: url("..\fonts\Pacifico\Pacifico-Regular.ttf");
+}
+
+h1 {
+    font-family: 'Pacifico';
+    color: #5F021F
+}
