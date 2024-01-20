@@ -1,9 +1,21 @@
 @font-face {
+    font-family: 'Neucha';
+    src: url(..\\fonts\\Neucha\\Neucha-Regular.ttf);
+}
+
+
+@font-face {
     font-family: 'Pacifico';
-    src: url("..\fonts\Pacifico\Pacifico-Regular.ttf");
+    src: url(..\\fonts\\Pacifico\\Pacifico-Regular.ttf);
 }
 
 h1 {
     font-family: 'Pacifico';
     color: #5F021F
+}
+
+
+
+body {
+    font-family: 'Neucha';
 }
